@@ -1,5 +1,0 @@
-Welcome to the Goat wiki!
-
-This wiki will introduce some knowledge about ubuntu coding;
-uu
-
